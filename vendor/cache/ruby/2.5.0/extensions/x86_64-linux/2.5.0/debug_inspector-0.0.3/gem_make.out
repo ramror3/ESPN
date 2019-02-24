@@ -1,0 +1,15 @@
+current directory: /home/ram/projects/espn/vendor/cache/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/home/ram/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190224-21183-19dnz5h.rb extconf.rb
+creating Makefile
+
+current directory: /home/ram/projects/espn/vendor/cache/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/ram/projects/espn/vendor/cache/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/ram/projects/espn/vendor/cache/ruby/2.5.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug_inspector.so ./.gem.20190224-21183-1liap7n
