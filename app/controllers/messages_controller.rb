@@ -6,6 +6,7 @@ class MessagesController < ApplicationController
 	end
 
 	def new
+		# binding.pry
 		@message = current_user.messages.build
 	end
 
@@ -13,6 +14,7 @@ class MessagesController < ApplicationController
 	end
 
 	def create
+		# binding.pry
 		@message = current_user.messages.build(message_params)
 
 		if @message.save
