@@ -5,8 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-Ruby - 2.5.0
-Rails - 5.0.2
-Gemset - espn
-rvm use 2.5.0
-rvm use 2.5.0@espn
+=>  Ruby - 2.5.0
+=>  Rails - 5.0.2
+=>  Gemset - espn
+=>  rvm use 2.5.0
+=>  rvm use 2.5.0@espn
